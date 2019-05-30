@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sql_assig1", "sql_assig1\sql_assig1.csproj", "{D8E487B4-CE57-4B9D-A3FA-972FE3538744}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleTestcase", "RectangleTestcase\RectangleTestcase.csproj", "{5615E0A4-89B1-438F-ABCD-808B7858BE8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D8E487B4-CE57-4B9D-A3FA-972FE3538744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8E487B4-CE57-4B9D-A3FA-972FE3538744}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8E487B4-CE57-4B9D-A3FA-972FE3538744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5615E0A4-89B1-438F-ABCD-808B7858BE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5615E0A4-89B1-438F-ABCD-808B7858BE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5615E0A4-89B1-438F-ABCD-808B7858BE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5615E0A4-89B1-438F-ABCD-808B7858BE8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

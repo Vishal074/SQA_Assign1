@@ -1,0 +1,12 @@
+F:\git-demo\sql_assig1\RectangleTestcase\bin\Debug\RectangleTestcase.dll
+F:\git-demo\sql_assig1\RectangleTestcase\bin\Debug\RectangleTestcase.pdb
+F:\git-demo\sql_assig1\RectangleTestcase\obj\Debug\RectangleTestcase.csproj.CoreCompileInputs.cache
+F:\git-demo\sql_assig1\RectangleTestcase\obj\Debug\RectangleTestcase.dll
+F:\git-demo\sql_assig1\RectangleTestcase\obj\Debug\RectangleTestcase.pdb
+F:\git-demo\sql_assig1\RectangleTestcase\bin\Debug\sql_assig1.exe
+F:\git-demo\sql_assig1\RectangleTestcase\bin\Debug\sql_assig1.pdb
+F:\git-demo\sql_assig1\RectangleTestcase\bin\Debug\sql_assig1.exe.config
+F:\git-demo\sql_assig1\RectangleTestcase\obj\Debug\RectangleTestcase.csprojAssemblyReference.cache
+F:\git-demo\sql_assig1\RectangleTestcase\obj\Debug\RectangleTestcase.csproj.CopyComplete
+F:\git-demo\sql_assig1\RectangleTestcase\bin\Debug\nunit.framework.dll
+F:\git-demo\sql_assig1\RectangleTestcase\bin\Debug\nunit.framework.xml

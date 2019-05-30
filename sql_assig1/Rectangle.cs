@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace sql_assig1
 {
-    class Rectangle
+    public class Rectangle
     {
         private int rect_length;
         private int rect_width;

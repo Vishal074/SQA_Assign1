@@ -5,3 +5,6 @@ F:\git-demo\sql_assig1\sql_assig1\bin\Debug\sql_assig1.exe
 F:\git-demo\sql_assig1\sql_assig1\bin\Debug\sql_assig1.pdb
 F:\git-demo\sql_assig1\sql_assig1\obj\Debug\sql_assig1.exe
 F:\git-demo\sql_assig1\sql_assig1\obj\Debug\sql_assig1.pdb
+F:\git-demo\sql_assig1\sql_assig1\bin\Debug\nunit.framework.dll
+F:\git-demo\sql_assig1\sql_assig1\bin\Debug\nunit.framework.xml
+F:\git-demo\sql_assig1\sql_assig1\obj\Debug\sql_assig1.csproj.CopyComplete
