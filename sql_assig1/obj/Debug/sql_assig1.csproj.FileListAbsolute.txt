@@ -1,0 +1,7 @@
+F:\git-demo\sql_assig1\sql_assig1\obj\Debug\sql_assig1.csprojAssemblyReference.cache
+F:\git-demo\sql_assig1\sql_assig1\obj\Debug\sql_assig1.csproj.CoreCompileInputs.cache
+F:\git-demo\sql_assig1\sql_assig1\bin\Debug\sql_assig1.exe.config
+F:\git-demo\sql_assig1\sql_assig1\bin\Debug\sql_assig1.exe
+F:\git-demo\sql_assig1\sql_assig1\bin\Debug\sql_assig1.pdb
+F:\git-demo\sql_assig1\sql_assig1\obj\Debug\sql_assig1.exe
+F:\git-demo\sql_assig1\sql_assig1\obj\Debug\sql_assig1.pdb
