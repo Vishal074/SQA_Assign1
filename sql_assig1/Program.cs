@@ -10,6 +10,7 @@ namespace sql_assig1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
